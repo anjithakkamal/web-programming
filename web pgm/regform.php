@@ -2,7 +2,7 @@
 <head>
 <title>general form</title>
 </head>
-<body bgcolor="aakk">
+<body bgcolor="pink">
 <form action = "<?php $_PHP_SELF ?>" method = "POST">
 Name:
 <input type = "text" name = "txtname">
@@ -74,3 +74,24 @@ mysql_close($con);
  }
  }
 ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
